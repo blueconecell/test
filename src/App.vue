@@ -2,7 +2,7 @@
   <v-app>
     <v-toolbar app>
       <v-toolbar-title class="headline text-uppercase">
-        ghjkghjk
+        dddddddddddddddddddddd
       </v-toolbar-title>
       <v-spacer></v-spacer>
     </v-toolbar>
